@@ -2,11 +2,11 @@
 /* Your CSS Code here. */
   .main{
         width: 200px;
-        background-color: purple;
-        padding: 10px;
+        background-color:rgb(128, 0, 128);
+/*         padding: 10px; */
         border-left: 5px solid green;
     }
-    .heading{
+    #heading{
         font-size: 20px;
         text-decoration: underline;
         color: white;
