@@ -3,7 +3,7 @@
   .main{
         width: 200px;
         background-color:rgb(128, 0, 128);
-/*         padding: 10px; */
+        padding: 10px;
         border-left: 5px solid green;
     }
     #heading{
